@@ -1,0 +1,18 @@
+﻿  main.cpp
+d:\vcprogram\class_2\class_2_problems45\class_2_problems45\main.cpp(34): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\vcprogram\class_2\class_2_problems45\class_2_problems45\main.cpp(70): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\vcprogram\class_2\class_2_problems45\class_2_problems45\main.cpp(89): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\vcprogram\class_2\class_2_problems45\class_2_problems45\main.cpp(108): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  CLASS_2_problems45.vcxproj -> D:\VCPROGRAM\Class_2\CLASS_2_problems45\x64\Debug\CLASS_2_problems45.exe
