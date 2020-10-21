@@ -11,13 +11,12 @@ int main()
 	threshold(src, binaryzation, 100, 255, THRESH_OTSU);
 	binaryzation = 255 - binaryzation;
 	imshow("windows1", binaryzation);
-	/*∏Ø ¥œﬂ¬∑*/
+	/*≈Ú’Õ*/
 	Mat size_erode = getStructuringElement(MORPH_RECT, Size(10, 10));
 	Mat output_erode;
 	morphologyEx(binaryzation, output_erode, 1, size_erode);
 	imshow("windows2", output_erode);
-
-	/*∫∏µ„≈Ú’Õ*/
+	/*∏Ø ¥*/
 	Mat size_dilate = getStructuringElement(MORPH_ELLIPSE, Size(12, 12));
 	Mat output_dilate;
 	morphologyEx(output_erode, output_dilate, 0, size_dilate);
