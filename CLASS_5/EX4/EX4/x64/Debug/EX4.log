@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\vcprogram\class_5\ex4\ex4\main.cpp(10): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  EX4.vcxproj -> D:\VCPROGRAM\CLASS_5\EX4\x64\Debug\EX4.exe
