@@ -1,0 +1,7 @@
+﻿  Main.cpp
+d:\vcprogram\class_6\ex2\ex2\main.cpp(14): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  EX2.vcxproj -> D:\VCPROGRAM\CLASS_6\EX2\x64\Debug\EX2.exe
