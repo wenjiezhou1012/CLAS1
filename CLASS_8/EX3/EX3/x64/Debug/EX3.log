@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\vcprogram\class_8\ex3\ex3\main.cpp(10): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\vcprogram\class_8\ex3\ex3\main.cpp(37): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+d:\vcprogram\class_8\ex3\ex3\main.cpp(62): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  EX3.vcxproj -> D:\VCPROGRAM\CLASS_8\EX3\x64\Debug\EX3.exe
